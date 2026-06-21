@@ -1,2 +1,14 @@
 # pokerzoneapp-archive
-HTML page archive and documentation
+
+静态内容发布记录
+
+发布生成的页面会被写入这里，形成一组可访问的静态文件。
+
+## 内容记录
+
+- 页面文件会逐步增加
+- 仓库说明会随配置保持更新
+
+## 维护备注
+
+若仓库启用 Pages，页面可通过 Pages 地址进行访问。
